@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @prashant-sehgal
-- 👀 I’m interested in Django & JavaScript relates framework as Angular & ReactJS
-- 🌱 I’m currently learning TypeScript & AngularJS
-- 💞️ I’m looking to collaborate on WebAPIs and restfull Application
-- 📫 How to reach me prashantsehgal.95790@gmail.com
+### Hi There 👋
 
-<!---
-prashant-sehgal/prashant-sehgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+_Welcome to my profile_
+
+-   🕸 **I am a Full Stack Web Developer**
+-   🚅 I works with technologies such as `MongoDB`, `Express`, `Angular` and `Node.js`
+-   ⭕ I build **Restfull APIs** and **_Websites_** using Javascript related technologies
+-   ✨ Also works with `Typescript`
+-   👀 I’m interested in collaborating with other developers over Github
+
+-   📫 **How to reach me:**  
+    Gmail: prashantsehgal.95790@gmail.com  
+    LinkedIn: https://www.linkedin.com/in/prashant-sehgal-b666bb232/
