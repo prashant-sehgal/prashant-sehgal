@@ -3,7 +3,7 @@
 _Welcome to my profile_
 
 -   🕸 **I am a Full Stack Web Developer**
--   🚅 I works with technologies such as `MongoDB`, `Express`, `Angular` and `Node.js`
+-   🚅 I works with technologies such as `MongoDB`, `Express.js`, `React.js` and `Node.js`
 -   ⭕ I build **Restfull APIs** and **_Websites_** using Javascript related technologies
 -   ✨ Also works with `Typescript`
 -   👀 I’m interested in collaborating with other developers over Github
